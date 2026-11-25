@@ -1,0 +1,212 @@
+{
+  "en": {
+    "001": {
+      "src": "9c36c0269c231197",
+      "text": "001f9ffa435291bd"
+    },
+    "002": {
+      "src": "04c5fb2a2cafa786",
+      "text": "3372cabff3363207"
+    },
+    "13": {
+      "src": "c98ad139105e953d",
+      "text": "5c50f8807dee8ac8"
+    },
+    "15": {
+      "src": "e9cba38bcf15407f",
+      "text": "73970996a1769fef"
+    },
+    "23": {
+      "src": "cdd862edc7a2360a",
+      "text": "688e359ccbbe3db7"
+    },
+    "START": {
+      "src": "66feae65caa15cbf",
+      "text": "882a2b06bb5ed91d"
+    },
+    "STOP": {
+      "src": "4ad2b6a360320b3a",
+      "text": "a9e4a71babe0bea9"
+    }
+  },
+  "de": {
+    "001": {
+      "src": "9c36c0269c231197",
+      "text": "2712eb2d17c0f818"
+    },
+    "002": {
+      "src": "04c5fb2a2cafa786",
+      "text": "e01eed472eedb37b"
+    },
+    "13": {
+      "src": "c98ad139105e953d",
+      "text": "df6037910ee31a17"
+    },
+    "15": {
+      "src": "e9cba38bcf15407f",
+      "text": "be3f553eecda89c6"
+    },
+    "23": {
+      "src": "cdd862edc7a2360a",
+      "text": "a9c98ba40c97b169"
+    },
+    "START": {
+      "src": "66feae65caa15cbf",
+      "text": "0ac1208afcd45920"
+    },
+    "STOP": {
+      "src": "4ad2b6a360320b3a",
+      "text": "6ebe95df52252326"
+    }
+  },
+  "fr": {
+    "001": {
+      "src": "9c36c0269c231197",
+      "text": "2124545f78b3bea3"
+    },
+    "002": {
+      "src": "04c5fb2a2cafa786",
+      "text": "a8d6fed31107cac6"
+    },
+    "13": {
+      "src": "c98ad139105e953d",
+      "text": "f0cc624010c9af05"
+    },
+    "15": {
+      "src": "e9cba38bcf15407f",
+      "text": "eba25e33f3e3a268"
+    },
+    "23": {
+      "src": "cdd862edc7a2360a",
+      "text": "1cba2f8683a00c91"
+    },
+    "START": {
+      "src": "66feae65caa15cbf",
+      "text": "f42ea28a790f80f1"
+    },
+    "STOP": {
+      "src": "4ad2b6a360320b3a",
+      "text": "5a4f6a76f847d659"
+    }
+  },
+  "es": {
+    "001": {
+      "src": "9c36c0269c231197",
+      "text": "c4211122f14617cd"
+    },
+    "002": {
+      "src": "04c5fb2a2cafa786",
+      "text": "35b5a65765a235e4"
+    },
+    "13": {
+      "src": "c98ad139105e953d",
+      "text": "e495e5f9828ebd16"
+    },
+    "15": {
+      "src": "e9cba38bcf15407f",
+      "text": "12c62d8d8e8dffba"
+    },
+    "23": {
+      "src": "cdd862edc7a2360a",
+      "text": "4c63fd5a497444d6"
+    },
+    "START": {
+      "src": "66feae65caa15cbf",
+      "text": "55be732694850257"
+    },
+    "STOP": {
+      "src": "4ad2b6a360320b3a",
+      "text": "2264b727b97fe400"
+    }
+  },
+  "pt": {
+    "001": {
+      "src": "9c36c0269c231197",
+      "text": "d1f2e2bc745c3469"
+    },
+    "002": {
+      "src": "04c5fb2a2cafa786",
+      "text": "b2387c6e5a92e4bd"
+    },
+    "13": {
+      "src": "c98ad139105e953d",
+      "text": "abab6c4f2cdfc539"
+    },
+    "15": {
+      "src": "e9cba38bcf15407f",
+      "text": "a9d7872604f3c476"
+    },
+    "23": {
+      "src": "cdd862edc7a2360a",
+      "text": "32c589e374f4c2b1"
+    },
+    "START": {
+      "src": "66feae65caa15cbf",
+      "text": "c19ea4c0493a261f"
+    },
+    "STOP": {
+      "src": "4ad2b6a360320b3a",
+      "text": "ff849d0d0e4d01b8"
+    }
+  },
+  "zh": {
+    "001": {
+      "src": "9c36c0269c231197",
+      "text": "18dde2f2856586bc"
+    },
+    "002": {
+      "src": "04c5fb2a2cafa786",
+      "text": "1ab7f3e86eda806a"
+    },
+    "13": {
+      "src": "c98ad139105e953d",
+      "text": "babbe90b4aa7a6df"
+    },
+    "15": {
+      "src": "e9cba38bcf15407f",
+      "text": "cf352baa21eaf8dd"
+    },
+    "23": {
+      "src": "cdd862edc7a2360a",
+      "text": "fb7e139e9ae27d0b"
+    },
+    "START": {
+      "src": "66feae65caa15cbf",
+      "text": "b1cc9079e8ba5fbe"
+    },
+    "STOP": {
+      "src": "4ad2b6a360320b3a",
+      "text": "d3aeb08429c98e9f"
+    }
+  },
+  "ru": {
+    "001": {
+      "src": "9c36c0269c231197",
+      "text": "8cf81818f9e1cbcf"
+    },
+    "002": {
+      "src": "04c5fb2a2cafa786",
+      "text": "78b1a01a989fa99e"
+    },
+    "13": {
+      "src": "c98ad139105e953d",
+      "text": "1aadb5015eebeb49"
+    },
+    "15": {
+      "src": "e9cba38bcf15407f",
+      "text": "ba308a498c2018a7"
+    },
+    "23": {
+      "src": "cdd862edc7a2360a",
+      "text": "710e5916fb005496"
+    },
+    "START": {
+      "src": "66feae65caa15cbf",
+      "text": "05c8885627c50999"
+    },
+    "STOP": {
+      "src": "4ad2b6a360320b3a",
+      "text": "d6e8d0bcb524dbc8"
+    }
+  }
+}

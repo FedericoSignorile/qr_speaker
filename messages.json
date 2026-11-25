@@ -16,5 +16,59 @@
     "13": "Welcome to the RDS New Year's Eve 2025 concert",
     "23": "Federico and Antonello are wonderful",
     "15": "Stone Eye – anti-terrorism aid for smart monitoring"
+  },
+  "de": {
+    "START": "Systemstart",
+    "STOP": "Abschaltung vollständig",
+    "001": "Willkommen an der Ladestation",
+    "002": "Notausstieg rechts",
+    "13": "Willkommen zum RDS Silvesterkonzert 2025",
+    "15": "Stone Eye – Anti-Terror-Hilfe für intelligentes Monitoring",
+    "23": "Federico und Antonello sind wunderbar"
+  },
+  "fr": {
+    "START": "Début du système",
+    "STOP": "Arrêt terminé",
+    "001": "Bienvenue à la station de chargement",
+    "002": "Sortie de secours à droite",
+    "13": "Bienvenue au concert du Nouvel An RDS 2025",
+    "15": "Stone Eye – aide antiterroriste pour une surveillance intelligente",
+    "23": "Federico et Antonello sont merveilleux"
+  },
+  "es": {
+    "START": "Inicio del sistema",
+    "STOP": "Cierre completo",
+    "001": "Bienvenido a la estación de carga",
+    "002": "Salida de emergencia a la derecha",
+    "13": "Bienvenidos al concierto de la víspera de Año Nuevo RDS 2025",
+    "15": "Stone Eye – ayuda antiterrorista para el monitoreo inteligente",
+    "23": "Federico y Antonello son maravillosos"
+  },
+  "pt": {
+    "START": "Início do sistema",
+    "STOP": "Desligamento concluído",
+    "001": "Bem-vindo à estação de carga.",
+    "002": "Saída de emergência à direita",
+    "13": "Bem-vindos ao concerto de Ano Novo RDS 2025",
+    "15": "Stone Eye – ajuda antiterrorismo para monitoramento inteligente",
+    "23": "Federico e Antonello são maravilhosos."
+  },
+  "zh": {
+    "START": "系统启动",
+    "STOP": "关闭完成",
+    "001": "欢迎来到加油站",
+    "002": "右侧紧急出口",
+    "13": "欢迎参加RDS2025年除夕音乐会",
+    "15": "Stone Eye – 用于智能监测的反恐援助",
+    "23": "费德里科和安东尼罗很棒"
+  },
+  "ru": {
+    "START": "Запуск системы",
+    "STOP": "Закрытие завершено",
+    "001": "Добро пожаловать на загрузочную станцию",
+    "002": "Аварийный выход справа",
+    "13": "Добро пожаловать на новогодний концерт RDS 2025",
+    "15": "Stone Eye - антитеррористическая помощь для интеллектуального мониторинга",
+    "23": "Федерико и Антонелло замечательные"
   }
 }
